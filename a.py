@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+from b import hello
 
 def sample_function():
 
@@ -18,4 +18,5 @@ def sample_function():
     pass
 
 
+hello()
 
